@@ -65,14 +65,14 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
+  --mention-color: rgba(255, 4, 4, 0.233);
   --mention-sider: rgb(250, 46, 46);
-  --mention-hover-color: rgb(255, 56, 245);
+  --mention-hover-color: rgba(255, 56, 245, 0.295);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(232, 14, 252);
+  --category-hover-color: rgba(232, 14, 252, 0.219);
 
   /*
     Change the unread server animation.
