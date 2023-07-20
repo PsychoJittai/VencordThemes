@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://cdn.discordapp.com/attachments/983116723437863002/1131716942152081598/1189484.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 285;
-  --dplus-accent-color-saturation: 70%;
-  --dplus-accent-color-lightness: 50%;
+  --dplus-accent-color-hue: 274;
+  --dplus-accent-color-saturation: 50%;
+  --dplus-accent-color-lightness: 30%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 2850;
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://cdn.discordapp.com/attachments/983116723437863002/1131727819114807316/astolfopeacev2.png);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
